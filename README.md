@@ -1,0 +1,4 @@
+# A Closer Look at Newcomers in Data Science
+As someone transitioning from a developer to a data scientist, I became curious about the situation of juniors in the field of Data Science and how my coding experience might influence job opportunities in this domain. To gain insights, I analyzed the [2022 Kaggle Machine Learning & Data Science Survey dataset](https://www.kaggle.com/competitions/kaggle-survey-2022/overview) to assess the state of juniors in Data Science.
+
+In this notebook, I aim to examine the distribution of junior professionals in the field of data science, considering various factors such as their age, gender, education, coding experience, and the industries they work in. Through this analysis, I hope to gain valuable insights into the experiences and opportunities available to newcomers in the Data Science field.
